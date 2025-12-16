@@ -1,6 +1,7 @@
 🛒 E-Commerce Category Performance Analysis (YOY 2024 vs 2023)
 
-This project replicates a real weekly Category Performance Reporting workflow similar to those used within ecommerce businesses like Flipkart, Myntra and Amazon, etc.
+This project simulates the same reporting system I used to run weekly in my previous role as a Junior Data Analyst, nwhere I generated weekly commercial performance summaries used by leadership to evaluate category contribution and drive business decisions.
+
 The goal is to analyze sales, profit and margin performance across 13 product categories and 35 cities, and compare results Year-over-Year (2024 vs 2023).
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -50,7 +51,5 @@ Business insight summary & recommendations
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-📝 Summary
 
-This project simulates the same reporting system I used to run weekly in my previous role as a Junior Data Analyst, 
-where I generated weekly commercial performance summaries used by leadership to evaluate category contribution and drive business decisions.
+
