@@ -17,7 +17,7 @@ YOY analysis and trend reporting
 
 ABC / Pareto analysis
 
-Excel dashboards built from SQL-generated dataset
+Excel / Power BI dashboards built from SQL-generated dataset
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Performance & profitability analysis
 
 Insight communication for commercial decisions
 
-Excel pivot dashboards
+Excel & Power BI dashboards
 
 
 --------------------------------------------------------------------------------------------------------------------------------
