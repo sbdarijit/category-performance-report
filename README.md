@@ -1,55 +1,93 @@
-🛒 E-Commerce Category Performance Analysis (YOY 2024 vs 2023)
+# 🛒 E-Commerce Sales & Category Performance Reporting  
+**Excel + Power BI | YOY Commercial Analysis**
 
-This project simulates the same reporting system I used to run weekly in my previous role as a Junior Data Analyst, nwhere I generated weekly commercial performance summaries used by leadership to evaluate category contribution and drive business decisions.
+## 📌 Project Overview
+This project replicates a real-world **weekly category performance reporting system** used to support commercial leadership decision-making in a retail / ecommerce environment.
 
-The goal is to analyze sales, profit and margin performance across 13 product categories and 35 cities, and compare results Year-over-Year (2024 vs 2023).
+The reporting solution combines:
+- **Excel** for detailed category-level analysis, and  
+- **Power BI** for an interactive, executive-level sales overview dashboard.
 
---------------------------------------------------------------------------------------------------------------------------------
+The analysis compares **2023 vs 2024 performance** across **35 cities and 13 product categories**, enabling visibility into sales trends, category contribution, and geographic performance.
 
-📌 What this project demonstrates
+---
 
-Realistic retail star-schema database structure
+## 🎯 Business Objective
+Retail leadership teams require both:
+- **Granular analysis** to understand *why* performance is changing, and  
+- **High-level dashboards** to quickly monitor overall business health.
 
-SQL transformations using CTEs, joins and aggregations
+This project was designed to mirror that real-world requirement by separating **analytical depth** from **executive visibility**, ensuring insights are accurate, clear, and decision-ready.
 
-Weekly Category × City performance metrics
+---
 
-YOY analysis and trend reporting
+## 🧩 Reporting Structure
 
-ABC / Pareto analysis
+### Excel: Category Performance Analysis
+Excel is used as the **analytical layer** to perform:
+- Year-over-year comparison of quantity, revenue, cost, and profit  
+- Category-level performance evaluation  
+- Identification of top-performing and underperforming categories  
+- Contribution analysis to assess revenue concentration  
+- City-level aggregation to highlight key markets  
 
-Excel / Power BI dashboards built from SQL-generated dataset
+This layer focuses on answering **why performance changes occur**.
 
---------------------------------------------------------------------------------------------------------------------------------
+---
 
-🧠 Skills Highlighted
+### Power BI: Sales Overview Dashboard
+Power BI is used as the **executive reporting layer**, providing a single-page overview of sales performance with interactive filtering.
 
-SQL (joins, CTEs, window functions, aggregation)
+**Key metrics displayed include:**
+- Total Sales (2023)
+- Total Sales (2024)
+- Year-over-Year Sales Growth %
+- Total Orders
+- Average Order Value (AOV)
 
-Data modeling & relational schema understanding
+The dashboard also includes:
+- Monthly sales trends  
+- Sales contribution by category  
+- Top cities by sales  
+- Top customers by sales  
+- Year-based slicers for dynamic comparison  
 
-Performance & profitability analysis
+This layer focuses on **monitoring performance and identifying areas for deeper investigation**.
 
-Insight communication for commercial decisions
+---
 
-Excel & Power BI dashboards
+## 🔄 How Excel and Power BI Work Together
+In this project:
+- **Excel** supports detailed commercial analysis, validation, and investigation  
+- **Power BI** supports ongoing performance monitoring and executive storytelling  
 
+Together, they form a **complete commercial reporting workflow**, reflecting how analytics teams operate in real organisations.
 
---------------------------------------------------------------------------------------------------------------------------------
+---
 
-📊 Key Outputs
+## 📊 Key Insights Enabled
+- Sales performance declined year-over-year, prompting deeper category review  
+- A small number of categories contribute the majority of total revenue  
+- Revenue is concentrated across specific cities and customers  
+- Order volume and AOV provide additional context beyond topline sales  
+- Excel-based analysis helps explain trends observed in the Power BI dashboard  
 
-Weekly category × city dataset for 2023 & 2024
+---
 
-YOY comparison dashboards
+## 🛠️ Skills Demonstrated
+- Commercial performance analysis  
+- YOY sales reporting  
+- Excel-based category and contribution analysis  
+- Power BI dashboard design & KPI storytelling  
+- Translating detailed analysis into executive-level insights  
+- Understanding of real-world reporting workflows  
 
-Category revenue concentration via ABC analysis
+---
 
-Top-performing cities by categories and many more trends
+## 📁 Files Included
+- **Excel**: Category Performance Analysis (YOY, category & city insights)  
+- **Power BI**: Sales Overview Dashboard (executive monitoring view)
 
-Business insight summary & recommendations
-
---------------------------------------------------------------------------------------------------------------------------------
 
 
 
